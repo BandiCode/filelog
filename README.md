@@ -1,4 +1,4 @@
-# SecurattoBackup
+# FileLog
 
 A simple and easy-to-understand program that detects changes on files and folders.
 
