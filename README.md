@@ -19,6 +19,8 @@ npm install
 # Runs code
 npm start
 ```
+## Note
+This is my first repository, it's a very simple code I made to get familiar with GitHub
 
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
