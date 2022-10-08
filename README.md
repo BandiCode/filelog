@@ -7,12 +7,16 @@ A simple and easy-to-understand program that detects changes on files and folder
 Use git to clone this repository like this:
 
 ```bash
-git clone https://github.com/BandiCode/securattobackup.git
+git clone https://github.com/BandiCode/filelog
 ```
 
 ## Usage
 Simply run those commands:
 ```bash
+# Installs all the packages needed
+npm install
+
+# Runs code
 npm start
 ```
 
