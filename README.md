@@ -1,6 +1,6 @@
 # SecurattoBackup
 
-A simple and easy-to-use program that detects changes on files and folders.
+A simple and easy-to-understand program that detects changes on files and folders.
 
 ## Installation
 
